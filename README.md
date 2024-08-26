@@ -2,7 +2,7 @@
 - 👀 Tenho interesse em desenvolvimento backend, automação e na integração de tecnologias inovadoras, como IA.
 - 🌱 Atualmente estou aprendendo mais sobre serviços da AWS, TypeScript, e aprimorando minhas habilidades em testes automatizados e práticas de clean code.
 - 💞️ Estou buscando colaborar em projetos que focam na construção de sistemas backend escaláveis, aprimoramento da qualidade do produto através de boas práticas, e integração de tecnologias avançadas de IA.
-- 📫 Como me encontrar: [Seu email ou LinkedIn]
+- 📫 Como me encontrar: nicsdesenvolvedor@gmail.com
 - 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidade: Comecei minha carreira com .NET C#, mas migrei para JavaScript, e sou apaixonado por aprender e melhorar continuamente minhas habilidades de programação.
 
