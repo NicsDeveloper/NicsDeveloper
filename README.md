@@ -1,26 +1,62 @@
-- 👋 Olá, eu sou @NicsDeveloper
-- 👀 Tenho interesse em desenvolvimento backend, automação e na integração de tecnologias inovadoras, como IA.
-- 🌱 Atualmente estou aprendendo mais sobre serviços da AWS, TypeScript, e aprimorando minhas habilidades em testes automatizados e práticas de clean code.
-- 💞️ Estou buscando colaborar em projetos que focam na construção de sistemas backend escaláveis, aprimoramento da qualidade do produto através de boas práticas, e integração de tecnologias avançadas de IA.
-- 📫 Como me encontrar: nicsdesenvolvedor@gmail.com
-- 😄 Pronomes: Ele/Dele
-- ⚡ Curiosidade: Comecei minha carreira com .NET C#, mas migrei para JavaScript, e sou apaixonado por aprender e melhorar continuamente minhas habilidades de programação.
+### Hello, I'm Nícolas Serrano 👋
 
-### Minha Jornada
+- 💻🎵 I'm developer and composer!
+- 📫 How to reach me: nicsdesenvolvedor@gmail.com
 
-Comecei minha carreira em 2020 como desenvolvedor backend júnior na SGC Consultoria, onde adquiri experiência prática com .NET C# e gerenciamento de banco de dados usando Stored Procedures (SPs). Essa função também me ajudou a desenvolver a habilidade de comunicar conceitos técnicos para diferentes departamentos, construindo uma base sólida para meus cargos futuros.
+<div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NScorzelli&count_private=true&show_icons=true&theme=tokyonight">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NScorzelli&layout=compact&theme=tokyonight">
+</div>
 
-Em 2021, avancei na carreira como analista de sistemas na IK Solution. Trabalhando remotamente, ganhei exposição a um mercado mais amplo além da minha cidade natal, Rio de Janeiro. Minhas responsabilidades incluíam priorizar tickets de suporte e lidar diretamente com a maioria deles, ajudando a aliviar a carga de trabalho da equipe. Esse papel também marcou minha transição do C# para o JavaScript.
+<br/>
 
-Em 2022, voltei a atuar exclusivamente como desenvolvedor backend, trabalhando com a plataforma de automação de mensageria Take Blip. Lá, fui imerso em metodologias ágeis como SCRUM e Kanban, e assumi a responsabilidade pelo processo de desenvolvimento de produtos. Desenvolvi APIs que integravam serviços de IA, testei integrações com sistemas dos clientes e garanti operações sem falhas.
+<p>💻 I have experience:<p>
+   <img align="center" alt="tkoch-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="tkoch-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="tkoch-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+   <img align="center" alt="tkoch-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+   <img align="center" alt="tkoch-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+   <br><br>
+   <img align="center" alt="tkoch-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+   <img align="center" alt="tkoch-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
+   <img align="center" alt="tkoch-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+   <img align="center" alt="tkoch-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+   <img align="center" alt="tkoch-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg">
+   <br><br>
+   <img align="center" alt="tkoch-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+   <img align="center" alt="tkoch-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+    <img align="center" alt="tkoch-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="tkoch-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg">
+    <img align="center" alt="tkoch-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+    <br><br>
+    <img align="center" alt="tkoch-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+    <img align="center" alt="tkoch-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+    <img align="center" alt="tkoch-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
+    <img align="center" alt="tkoch-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
+    <img align="center" alt="tkoch-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
+    <br><br>
+    <img align="center" alt="tkoch-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+    <img align="center" alt="tkoch-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
+    <img align="center" alt="tkoch-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+    <img align="center" alt="tkoch-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="tkoch-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg">
 
-Ainda em 2022, assumi também um cargo de desenvolvedor full-stack em meio período no Prudentte Bank, onde contribuí para o desenvolvimento de novas features e correção de bugs para a plataforma Girabank.
 
-Em 2023, ingressei na Smart NX como desenvolvedor backend, onde pude aplicar minha experiência acumulada para impulsionar a inovação dentro da equipe. Desempenhei um papel crucial na implementação de testes automatizados, padrões de commit, design patterns e na introdução do TypeScript. Além disso, liderei a integração bem-sucedida com a Amazon Lexa, nossa primeira integração com IA, que aumentou significativamente a satisfação dos usuários.
+<br/>
 
-Deixei a Smart NX em março de 2024, pronto para enfrentar novos desafios e continuar crescendo como desenvolvedor.
+<p>🌱 I’m currently learning:<p>
+    <img align="center" alt="tkoch-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+    <img align="center" alt="tkoch-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+<br/>
 
-<!---
-NicsDeveloper/NicsDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>🔭 I'm interested in learn:<p>
+    <img align="center" alt="tkoch-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
+    <img align="center" alt="tkoch-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="tkoch-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <img align="center" alt="tkoch-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
+    
+    
+    
+<br/>
+
+##
