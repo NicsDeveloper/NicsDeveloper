@@ -4,8 +4,8 @@
 - 📫 How to reach me: nicsdesenvolvedor@gmail.com
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NScorzelli&count_private=true&show_icons=true&theme=tokyonight">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NScorzelli&layout=compact&theme=tokyonight">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NicsDeveloper&count_private=true&show_icons=true&theme=tokyonight">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicsDeveloper&layout=compact&theme=tokyonight">
 </div>
 
 <br/>
